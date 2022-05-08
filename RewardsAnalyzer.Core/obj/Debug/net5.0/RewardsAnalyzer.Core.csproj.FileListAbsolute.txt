@@ -1,0 +1,11 @@
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\bin\Debug\net5.0\RewardsAnalyzer.Core.deps.json
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\bin\Debug\net5.0\RewardsAnalyzer.Core.dll
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\bin\Debug\net5.0\ref\RewardsAnalyzer.Core.dll
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\bin\Debug\net5.0\RewardsAnalyzer.Core.pdb
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\RewardsAnalyzer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\RewardsAnalyzer.Core.AssemblyInfoInputs.cache
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\RewardsAnalyzer.Core.AssemblyInfo.cs
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\RewardsAnalyzer.Core.csproj.CoreCompileInputs.cache
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\RewardsAnalyzer.Core.dll
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\ref\RewardsAnalyzer.Core.dll
+D:\RewardsAnalyzer\RewardsAnalyzer.Core\obj\Debug\net5.0\RewardsAnalyzer.Core.pdb
